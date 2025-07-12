@@ -1,0 +1,6 @@
+{
+  "name": "AI Image Studio",
+  "description": "An AI-powered application to generate and enhance images using prompts or existing visuals. Features include image generation, analysis, enhancement, and a gallery for saved creations.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
